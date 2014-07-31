@@ -1,3 +1,3 @@
 Hex, decimal, binary translation calculator
 
-need <a ref="http://www.wxpython.org/">wxpython</ref> library
+It needs http://www.wxpython.org/ library
